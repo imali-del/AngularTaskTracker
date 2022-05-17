@@ -43,6 +43,6 @@ export class AddTaskComponent implements OnInit {
   this.reminder = false;
 
   }
-
+  
 
 }
